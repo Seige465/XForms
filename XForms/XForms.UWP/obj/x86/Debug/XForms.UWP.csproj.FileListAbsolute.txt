@@ -1,0 +1,1089 @@
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csprojResolveAssemblyReference.cache
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\App.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.g.i.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\App.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.xaml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\App.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\e_sqlite3.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.Ext.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.Ext.pri
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\App.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\MainPage.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Canvas.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\DateTimePicker.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\DraggablePin.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Map.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Loading.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Select.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\GeoPoint.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Group.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Input.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\MultiSegmentControl.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Page.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\SegmentControl.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Select.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Select1.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Upload_Draw.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Upload_Image.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\WidgetMaster.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\XFormMaster.xbf
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.xr.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.exe
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\resources.pri
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Core\XForms.UWP.exe
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.build.appxrecipe
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Core.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Windows.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.pri
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.winmd
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Console.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\clrjit.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\clrcompression.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLite-net.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLite-net.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.raw.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.AppContext.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Buffers.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Data.Common.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Http.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XPath.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csproj.CoreCompileInputs.cache
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.exe
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.pdb
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XPath.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XPath.XDocument.SR.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csproj.GenerateResource.Cache
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\priconfig.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\layout.resfiles
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.resfiles
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\pri.resfiles
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.en.resfiles
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.en.resfiles.intermediate
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Robmikh.CompositionSurfaceFactory.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\cj.GOGET\Documents\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\e_sqlite3.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.Ext.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.Ext.pri
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\App.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\MainPage.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Canvas.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\DateTimePicker.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\DraggablePin.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Map.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Loading.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Select.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\GeoPoint.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Group.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Input.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\MultiSegmentControl.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Page.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\SegmentControl.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Select.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Select1.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Upload_Draw.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Upload_Image.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\WidgetMaster.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\XFormMaster.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.xr.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.exe
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\resources.pri
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\AppxManifest.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Core\AppxManifest.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Core\XForms.UWP.exe
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.build.appxrecipe
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Core.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Windows.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.Linq.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.pri
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.winmd
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Timer.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Console.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Primitives.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Sockets.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\clrjit.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\clrcompression.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.Uri.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLite-net.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLite-net.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.raw.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.AppContext.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Buffers.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Data.Common.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.Compression.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Http.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Requests.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ObjectModel.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Context.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Claims.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Principal.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ValueTuple.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XPath.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csprojResolveAssemblyReference.cache
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\App.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\App.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.g.i.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\App.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.xaml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\App.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.xbf
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csproj.CoreCompileInputs.cache
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csproj.CopyComplete
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.exe
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.pdb
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\ResourceHandlingTask.state
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XPath.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XPath.XDocument.SR.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csproj.GenerateResource.Cache
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\priconfig.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\priconfig.xml.intermediate
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\layout.resfiles
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\layout.resfiles.intermediate
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.resfiles
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.resfiles.intermediate
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\pri.resfiles
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\pri.resfiles.intermediate
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\qualifiers.txt
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.en.resfiles
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.en.resfiles.intermediate
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Robmikh.CompositionSurfaceFactory.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\SQLitePCL.raw.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+S:\CJ Backup\Projects\XForms\XForms\XForms.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\e_sqlite3.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.Ext.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.Ext.pri
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\App.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Canvas.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\DateTimePicker.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\DraggablePin.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Map.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Loading.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Popup\Controls\Select.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\GeoPoint.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Group.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Input.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\MultiSegmentControl.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Page.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\SegmentControl.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Select.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Select1.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Upload_Draw.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\Upload_Image.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\Widgets\WidgetMaster.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms\XFormMaster.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.xr.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.exe
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\resources.pri
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Core\XForms.UWP.exe
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\XForms.UWP.build.appxrecipe
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Core.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Windows.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.pri
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Robmikh.CompositionSurfaceFactory.winmd
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Console.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\clrjit.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\clrcompression.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLite-net.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLite-net.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCL.raw.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.AppContext.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Buffers.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Data.Common.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Http.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XPath.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csprojResolveAssemblyReference.cache
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\App.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.g.i.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\App.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.xaml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\App.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Canvas.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\DateTimePicker.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\DraggablePin.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Map.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Loading.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Popup\Controls\Select.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\GeoPoint.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Group.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Input.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\MultiSegmentControl.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Page.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\SegmentControl.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Select1.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Draw.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\Upload_Image.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\Widgets\WidgetMaster.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms\XFormMaster.xbf
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csproj.CoreCompileInputs.cache
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csproj.CopyComplete
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.exe
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.pdb
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XPath.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\FxResources.System.Xml.XPath.XDocument.SR.resw
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\XForms.UWP.csproj.GenerateResource.Cache
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\priconfig.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\layout.resfiles
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.resfiles
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\pri.resfiles
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.en.resfiles
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\resources.en.resfiles.intermediate
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Robmikh.CompositionSurfaceFactory.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.DeveloperTools.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Animations.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Toolkit.Uwp.UI.Controls.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\SQLitePCL.raw.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\Cj\Documents\Project\XForms\XForms\XForms.UWP\obj\x86\Debug\ProjectArchitectures.txt

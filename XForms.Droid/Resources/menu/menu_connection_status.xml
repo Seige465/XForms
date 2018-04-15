@@ -1,0 +1,17 @@
+﻿<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:xforms="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/menu_online"
+      android:orderInCategory="10"
+      android:showAsAction="withText|always"
+      android:enabled="false"
+      android:icon="@drawable/tick" 
+        android:title="Online"
+        android:background="#00ff00"/>
+  <item android:id="@+id/menu_offline"
+    android:orderInCategory="10"
+    android:showAsAction="withText|always"
+    android:enabled="false"
+    android:icon="@drawable/delete"
+      android:title="Offline"
+      android:background="#ff0000"/>
+</menu>

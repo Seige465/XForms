@@ -1,0 +1,638 @@
+﻿<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>Widgets</h:title>
+    <model>
+      <instance>
+        <data id="snapshot_xml">
+          <start/>
+          <end/>
+          <today/>
+          <username/>
+          <simserial/>
+          <subscriberid/>
+          <deviceid/>
+          <phonenumber/>
+          <textcontrols>
+            <Text/>
+            <Text_multiline/>
+            <Text_numbers/>
+          </textcontrols>
+          <numbercontrols>
+            <Number/>
+          </numbercontrols>
+          <decimalcontrols>
+            <Decimal/>
+          </decimalcontrols>
+          <datetimecontrols>
+            <Datetime/>
+            <Time/>
+            <Date></Date>
+            <date_month_year/>
+            <Date_year/>
+          </datetimecontrols>
+          <select1controls>
+            <Select1/>
+            <Select1_minimal/>
+            <Select1_compact/>
+            <Select1_with_other/>
+            <_Other/>
+          </select1controls>
+          <selectcontrols>
+            <Select_001/>
+            <Select_minimal/>
+            <Select_compact/>
+            <Select_with_other/>
+            <_Other_001/>
+          </selectcontrols>
+          <gpscontrols>
+            <Geopoint/>
+          </gpscontrols>
+          <photoattachments>
+            <Photo/>
+            <Photo_signature/>
+            <Photo_draw/>
+            <Photo_annotate/>
+            <Photo_textannotate/>
+          </photoattachments>
+          <calculationcontrols>
+            <A>0</A>
+            <B>0</B>
+            <sum/>
+            <Sum_sum/>
+            <if/>
+            <XPath_2_0_if_then_else_A_is_if/>
+            <if2/>
+            <XPath_1_0_if_then_else_A_is_if2/>
+            <if3/>
+            <ODK_javaRosa_if_then_else_A_is_if3/>
+          </calculationcontrols>
+          <misccontrols>
+            <Text_mandatory/>
+            <Text_default>some default value</Text_default>
+            <Note_read_only/>
+            <Select1_preselect>option_1</Select1_preselect>
+            <Select_preselect>option_2 | option_1</Select_preselect>
+          </misccontrols>
+          <showhidecontrols>
+            <C/>
+            <D/>
+            <if_C_set/>
+            <if_C_not_set/>
+            <if_C_1/>
+            <if_C_1_001/>
+            <if_C_set_and_D_1/>
+            <if_C_set_or_D_1/>
+            <Select/>
+            <if_selected_Option_2>this question is shown only if you selected option 2</if_selected_Option_2>
+          </showhidecontrols>
+          <showhidesubgroup>
+            <Q1/>
+            <Q2/>
+          </showhidesubgroup>
+          <validationcontrols>
+            <E/>
+            <F/>
+            <Text_Email/>
+            <Text_max_length/>
+            <Decimal_currency/>
+          </validationcontrols>
+          <PAGE_001>
+            <Control_1a/>
+            <page1section1group>
+              <Control_1_1a/>
+              <Control_1_1b/>
+            </page1section1group>
+            <Control_1b/>
+            <page1section2group>
+              <Control_1_2a/>
+              <Control_1_2b/>
+            </page1section2group>
+          </PAGE_001>
+          <page2group>
+            <Control_2a/>
+            <Control_2b/>
+          </page2group>
+          <missingcontrols>
+            <Boolean/>
+          </missingcontrols>
+          <meta>
+            <instanceID/>
+          </meta>
+        </data>
+      </instance>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/data/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/data/end" type="dateTime"/>
+      <bind jr:preload="date" jr:preloadParams="today" nodeset="/data/today" type="date"/>
+      <bind jr:preload="property" jr:preloadParams="username" nodeset="/data/username" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="simserial" nodeset="/data/simserial" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="subscriberid" nodeset="/data/subscriberid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/data/deviceid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="phonenumber" nodeset="/data/phonenumber" type="string"/>
+      <bind nodeset="/data/textcontrols/Text" required="false()" type="string"/>
+      <bind nodeset="/data/textcontrols/Text_multiline" required="false()" type="string"/>
+      <bind nodeset="/data/textcontrols/Text_numbers" required="false()" type="string"/>
+      <bind nodeset="/data/numbercontrols/Number" required="false()" type="int"/>
+      <bind nodeset="/data/decimalcontrols/Decimal" required="false()" type="decimal"/>
+      <bind nodeset="/data/datetimecontrols/Datetime" required="false()" type="dateTime"/>
+      <bind nodeset="/data/datetimecontrols/Time" required="false()" type="time"/>
+      <bind nodeset="/data/datetimecontrols/Date" required="false()" type="date"/>
+      <bind nodeset="/data/datetimecontrols/date_month_year" required="false()" type="date"/>
+      <bind nodeset="/data/datetimecontrols/Date_year" required="false()" type="date"/>
+      <bind nodeset="/data/select1controls/Select1" required="false()" type="select1"/>
+      <bind nodeset="/data/select1controls/Select1_minimal" required="false()" type="select1"/>
+      <bind nodeset="/data/select1controls/Select1_compact" required="false()" type="select1"/>
+      <bind nodeset="/data/select1controls/Select1_with_other" required="false()" type="select1"/>
+      <bind nodeset="/data/select1controls/_Other" relevant="/data/select1controls/Select1_with_other  = 'other'" required="false()" type="string"/>
+      <bind nodeset="/data/selectcontrols/Select_001" relevant="/data/textcontrols/Text != 'hide'" required="false()" type="select"/>
+      <bind nodeset="/data/selectcontrols/Select_minimal" required="false()" type="select"/>
+      <bind nodeset="/data/selectcontrols/Select_compact" required="false()" type="select"/>
+      <bind nodeset="/data/selectcontrols/Select_with_other" required="false()" type="select"/>
+      <bind nodeset="/data/selectcontrols/_Other_001" relevant="selected( /data/selectcontrols/Select_with_other , 'other')" required="false()" type="string"/>
+      <bind nodeset="/data/gpscontrols/Geopoint" required="false()" type="geopoint"/>
+      <bind nodeset="/data/photoattachments/Photo" required="false()" type="binary"/>
+      <bind nodeset="/data/photoattachments/Photo_signature" required="false()" type="binary"/>
+      <bind nodeset="/data/photoattachments/Photo_draw" required="false()" type="binary"/>
+      <bind nodeset="/data/photoattachments/Photo_annotate" required="false()" type="binary"/>
+      <bind nodeset="/data/photoattachments/Photo_textannotate" required="false()" type="binary"/>
+      <bind nodeset="/data/calculationcontrols/A" required="false()" type="int"/>
+      <bind nodeset="/data/calculationcontrols/B" required="false()" type="int"/>
+      <bind calculate=" /data/calculationcontrols/A  +  /data/calculationcontrols/B " nodeset="/data/calculationcontrols/sum" required="false()" type="string"/>
+      <bind nodeset="/data/calculationcontrols/Sum_sum" readonly="true()" required="false()" type="string"/>
+      <bind calculate="if( /data/calculationcontrols/A &gt;0,'true','false')" nodeset="/data/calculationcontrols/if" required="false()" type="string"/>
+      <bind nodeset="/data/calculationcontrols/XPath_2_0_if_then_else_A_is_if" readonly="true()" required="false()" type="string"/>
+      <bind calculate="concat(substring('true', 1 div  /data/calculationcontrols/A ), substring('false', 1 div not(number( /data/calculationcontrols/A ))))" nodeset="/data/calculationcontrols/if2" required="false()" type="string"/>
+      <bind nodeset="/data/calculationcontrols/XPath_1_0_if_then_else_A_is_if2" readonly="true()" required="false()" type="string"/>
+      <bind calculate="concat(substr('true', 1 div  /data/calculationcontrols/A  - 1), substr('false', 1 div not(number( /data/calculationcontrols/A )) - 1))" nodeset="/data/calculationcontrols/if3" required="false()" type="string"/>
+      <bind nodeset="/data/calculationcontrols/ODK_javaRosa_if_then_else_A_is_if3" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/data/misccontrols/Text_mandatory" required="true()" type="string"/>
+      <bind nodeset="/data/misccontrols/Text_default" required="false()" type="string"/>
+      <bind nodeset="/data/misccontrols/Note_read_only" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/data/misccontrols/Select1_preselect" required="false()" type="select1"/>
+      <bind nodeset="/data/misccontrols/Select_preselect" required="false()" type="select"/>
+      <bind nodeset="/data/showhidecontrols/C" required="false()" type="int"/>
+      <bind nodeset="/data/showhidecontrols/D" required="false()" type="int"/>
+      <bind nodeset="/data/showhidecontrols/if_C_set" relevant=" /data/showhidecontrols/C  != ''" required="false()" type="string"/>
+      <bind nodeset="/data/showhidecontrols/if_C_not_set" relevant=" /data/showhidecontrols/C  = ''" required="false()" type="string"/>
+      <bind nodeset="/data/showhidecontrols/if_C_1" relevant=" /data/showhidecontrols/C  = 1" required="false()" type="string"/>
+      <bind nodeset="/data/showhidecontrols/if_C_1_001" relevant=" /data/showhidecontrols/C  != 1" required="false()" type="string"/>
+      <bind nodeset="/data/showhidecontrols/if_C_set_and_D_1" relevant=" /data/showhidecontrols/C  != '' and  /data/showhidecontrols/D  = 1" required="false()" type="string"/>
+      <bind nodeset="/data/showhidecontrols/if_C_set_or_D_1" relevant=" /data/showhidecontrols/C  != '' or  /data/showhidecontrols/D  = 1" required="false()" type="string"/>
+      <bind nodeset="/data/showhidecontrols/showhidesubgroup" relevant=" /data/showhidecontrols/C  != ''"/>
+      <bind nodeset="/data/showhidecontrols/showhidesubgroup/Q1" required="false()" type="string"/>
+      <bind nodeset="/data/showhidecontrols/showhidesubgroup/Q2" required="false()" type="string"/>
+      <bind nodeset="/data/showhidecontrols/Select" required="false()" type="select"/>
+      <bind nodeset="/data/showhidecontrols/if_selected_Option_2" relevant="selected( /data/showhidecontrols/Select , 'option_2')" required="false()" type="string"/>
+      <bind constraint=". != 1" jr:constraintMsg="value of E cannot be 1" nodeset="/data/validationcontrols/E" required="false()" type="int"/>
+      <bind constraint=". &gt; 0 and . &lt;= 10" jr:constraintMsg="value of F must be between 1 and 10 (inclusive)" nodeset="/data/validationcontrols/F" required="false()" type="int"/>
+      <bind constraint="regex(.,'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}')" jr:constraintMsg="this is not a valid email address" nodeset="/data/validationcontrols/Text_Email" required="false()" type="string"/>
+      <bind constraint="string-length(.) &lt;= 10" jr:constraintMsg="string may contain at most 10 characters" nodeset="/data/validationcontrols/Text_max_length" required="false()" type="string"/>
+      <bind constraint=". = round(. * 100) div 100" jr:constraintMsg="max 2 decimal places" nodeset="/data/validationcontrols/Decimal_currency" required="false()" type="decimal"/>
+      <bind nodeset="/data/PAGE_001/Control_1a" required="false()" type="string"/>
+      <bind nodeset="/data/PAGE_001/page1section1group/Control_1_1a" required="false()" type="string"/>
+      <bind nodeset="/data/PAGE_001/page1section1group/Control_1_1b" required="false()" type="string"/>
+      <bind nodeset="/data/PAGE_001/Control_1b" required="false()" type="string"/>
+      <bind nodeset="/data/PAGE_001/page1section2group/Control_1_2a" required="false()" type="string"/>
+      <bind nodeset="/data/PAGE_001/page1section2group/Control_1_2b" required="false()" type="string"/>
+      <bind nodeset="/data/page2group/Control_2a" required="false()" type="string"/>
+      <bind nodeset="/data/page2group/Control_2b" required="false()" type="string"/>
+      <bind nodeset="/data/missingcontrols/Boolean" required="false()" type="select1"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/data/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <group ref="/data/textcontrols">
+      <label>Text</label>
+      <input ref="/data/textcontrols/Text">
+        <label>Text</label>
+        <hint>default (single line of text)</hint>
+      </input>
+      <input appearance="multiline" ref="/data/textcontrols/Text_multiline">
+        <label>Text - multiline</label>
+        <hint>multiple lines of text</hint>
+      </input>
+      <input appearance="numbers" ref="/data/textcontrols/Text_numbers">
+        <label>Text - numbers</label>
+        <hint>show number keypad instead of regular keyboard, eg use for phone numbers</hint>
+      </input>
+    </group>
+    <group ref="/data/numbercontrols">
+      <label>Number</label>
+      <input ref="/data/numbercontrols/Number">
+        <label>Number</label>
+        <hint>default</hint>
+      </input>
+    </group>
+    <group ref="/data/decimalcontrols">
+      <label>Decimal</label>
+      <input ref="/data/decimalcontrols/Decimal">
+        <label>Decimal</label>
+        <hint>default</hint>
+      </input>
+    </group>
+    <group ref="/data/datetimecontrols">
+      <label>Date and Time</label>
+      <input ref="/data/datetimecontrols/Datetime">
+        <label>Datetime</label>
+        <hint>date and time</hint>
+      </input>
+      <input ref="/data/datetimecontrols/Time">
+        <label>Time</label>
+        <hint>time only</hint>
+      </input>
+      <input ref="/data/datetimecontrols/Date">
+        <label>Date</label>
+        <hint>date only (default)</hint>
+      </input>
+      <input appearance="month-year" ref="/data/datetimecontrols/date_month_year">
+        <label>Date - month-year</label>
+      </input>
+      <input appearance="year" ref="/data/datetimecontrols/Date_year">
+        <label>Date - year</label>
+      </input>
+    </group>
+    <group ref="/data/select1controls">
+      <label>Select1</label>
+      <select1 appearance="full" ref="/data/select1controls/Select1">
+        <label>Select1</label>
+        <hint>show all options, possibly on new page (default)</hint>
+        <item>
+          <label>Display Value1</label>
+          <value>display_value1</value>
+        </item>
+        <item>
+          <label>Display Value2</label>
+          <value>value2</value>
+        </item>
+        <item>
+          <label>Display Value3</label>
+          <value>display_value3</value>
+        </item>
+      </select1>
+      <select1 appearance="minimal" ref="/data/select1controls/Select1_minimal">
+        <label>Select1 - minimal</label>
+        <hint>show popup with all options</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Option 3</label>
+          <value>option_3</value>
+        </item>
+      </select1>
+      <select1 appearance="compact" ref="/data/select1controls/Select1_compact">
+        <label>Select1 - compact</label>
+        <hint>show options inline</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Option 3</label>
+          <value>option_3</value>
+        </item>
+      </select1>
+      <select1 ref="/data/select1controls/Select1_with_other">
+        <label>Select1 with other</label>
+        <hint>selection='open' unsupported; must have separate question to enter other value</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Other</label>
+          <value>other</value>
+        </item>
+      </select1>
+      <input ref="/data/select1controls/_Other">
+        <label>- Other</label>
+      </input>
+    </group>
+    <group ref="/data/selectcontrols">
+      <label>Select</label>
+      <select ref="/data/selectcontrols/Select_001">
+        <label>Select</label>
+        <hint>show all options, possibly on new page (default)</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Option 3</label>
+          <value>option_3</value>
+        </item>
+      </select>
+      <select appearance="minimal" ref="/data/selectcontrols/Select_minimal">
+        <label>Select - minimal</label>
+        <hint>show popup with all options</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Option 3</label>
+          <value>option_3</value>
+        </item>
+      </select>
+      <select appearance="compact" ref="/data/selectcontrols/Select_compact">
+        <label>Select - compact</label>
+        <hint>show options inline</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Option 3</label>
+          <value>option_3</value>
+        </item>
+      </select>
+      <select ref="/data/selectcontrols/Select_with_other">
+        <label>Select with other</label>
+        <hint>selection='open' unsupported; use separate question to enter other value</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Other</label>
+          <value>other</value>
+        </item>
+      </select>
+      <input ref="/data/selectcontrols/_Other_001">
+        <label>- Other</label>
+      </input>
+    </group>
+    <group ref="/data/gpscontrols">
+      <label>GPS location</label>
+      <input ref="/data/gpscontrols/Geopoint">
+        <label>Geopoint</label>
+        <hint>Single GPS location (lat, long)</hint>
+      </input>
+    </group>
+    <group ref="/data/photoattachments">
+      <label>Media / Attachments</label>
+      <upload mediatype="image/*" ref="/data/photoattachments/Photo">
+        <label>Photo</label>
+        <hint>photo only (default)</hint>
+      </upload>
+      <upload appearance="signature" mediatype="image/*" ref="/data/photoattachments/Photo_signature">
+        <label>Photo - signature</label>
+        <hint>capture signature (black only)</hint>
+      </upload>
+      <upload appearance="draw" mediatype="image/*" ref="/data/photoattachments/Photo_draw">
+        <label>Photo - draw</label>
+        <hint>freehand color drawing</hint>
+      </upload>
+      <upload appearance="annotate" mediatype="image/*" ref="/data/photoattachments/Photo_annotate">
+        <label>Photo - annotate</label>
+        <hint>freehand color drawing over photo</hint>
+      </upload>
+      <upload appearance="textannotate" mediatype="image/*" ref="/data/photoattachments/Photo_textannotate">
+        <label>Photo - textannotate</label>
+        <hint>custom photo appearance to allow both drawing and text</hint>
+      </upload>
+    </group>
+    <group ref="/data/calculationcontrols">
+      <label>Calculation</label>
+      <input ref="/data/calculationcontrols/A">
+        <label>A</label>
+        <hint>input value</hint>
+      </input>
+      <input ref="/data/calculationcontrols/B">
+        <label>B</label>
+        <hint>input value</hint>
+      </input>
+      <input ref="/data/calculationcontrols/Sum_sum">
+        <label>
+          Sum = <output value=" /data/calculationcontrols/sum "/>
+        </label>
+        <hint>reference calculation result, non-editable</hint>
+      </input>
+      <input ref="/data/calculationcontrols/XPath_2_0_if_then_else_A_is_if">
+        <label>
+          XPath 2.0: if-then-else, A is <output value=" /data/calculationcontrols/if "/>
+        </label>
+      </input>
+      <input ref="/data/calculationcontrols/XPath_1_0_if_then_else_A_is_if2">
+        <label>
+          XPath 1.0: if-then-else, A is <output value=" /data/calculationcontrols/if2 "/>
+        </label>
+      </input>
+      <input ref="/data/calculationcontrols/ODK_javaRosa_if_then_else_A_is_if3">
+        <label>
+          ODK javaRosa: if-then-else, A is <output value=" /data/calculationcontrols/if3 "/>
+        </label>
+      </input>
+    </group>
+    <group ref="/data/misccontrols">
+      <label>Misc options</label>
+      <input ref="/data/misccontrols/Text_mandatory">
+        <label>Text (mandatory)</label>
+        <hint>The * indicates an answer is required; can be XPath expression but only true() and false() supported</hint>
+      </input>
+      <input ref="/data/misccontrols/Text_default">
+        <label>Text (default)</label>
+      </input>
+      <input ref="/data/misccontrols/Note_read_only">
+        <label>Note (read-only)</label>
+        <hint>implemented as read-only string/text control</hint>
+      </input>
+      <select1 ref="/data/misccontrols/Select1_preselect">
+        <label>Select1 (preselect)</label>
+        <hint>specify pre-selected option</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Option 3</label>
+          <value>option_3</value>
+        </item>
+      </select1>
+      <select ref="/data/misccontrols/Select_preselect">
+        <label>Select (preselect)</label>
+        <hint>specify multiple pre-selected option values, separated by ' | '</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Option 3</label>
+          <value>option_3</value>
+        </item>
+      </select>
+    </group>
+    <group ref="/data/showhidecontrols">
+      <label>Show/Hide Logic</label>
+      <input ref="/data/showhidecontrols/C">
+        <label>C</label>
+      </input>
+      <input ref="/data/showhidecontrols/D">
+        <label>D</label>
+      </input>
+      <input ref="/data/showhidecontrols/if_C_set">
+        <label>if C set</label>
+        <hint>This question is only shown if C is set</hint>
+      </input>
+      <input ref="/data/showhidecontrols/if_C_not_set">
+        <label>if C not set</label>
+        <hint>This question is only shown if C is not set</hint>
+      </input>
+      <input ref="/data/showhidecontrols/if_C_1">
+        <label>if C = 1</label>
+        <hint>This question is only shown if C equals 1</hint>
+      </input>
+      <input ref="/data/showhidecontrols/if_C_1_001">
+        <label>if C != 1</label>
+        <hint>This question is only shown if C does not equal 1</hint>
+      </input>
+      <input ref="/data/showhidecontrols/if_C_set_and_D_1">
+        <label>if C set and D = 1</label>
+        <hint>This question is only shown if C is set *and* D equals 1</hint>
+      </input>
+      <input ref="/data/showhidecontrols/if_C_set_or_D_1">
+        <label>if C set or D = 1</label>
+        <hint>This question is only shown if C is set *or* D equals 1</hint>
+      </input>
+      <select ref="/data/showhidecontrols/Select">
+        <label>Select</label>
+        <hint>try selecting and unselecting option2</hint>
+        <item>
+          <label>Option 1</label>
+          <value>option_1</value>
+        </item>
+        <item>
+          <label>Option 2</label>
+          <value>option_2</value>
+        </item>
+        <item>
+          <label>Option 3</label>
+          <value>option_3</value>
+        </item>
+      </select>
+      <input ref="/data/showhidecontrols/if_selected_Option_2">
+        <label>if selected Option 2</label>
+        <hint>requires selected(), which is XPath2.0 only. Partial workaround using XPath 1.0 contains() instead</hint>
+      </input>
+    </group>
+
+    <group ref="/data/showhidecontrols/showhidesubgroup">
+      <label>Show this subgroup if C set</label>
+      <input ref="/data/showhidecontrols/showhidesubgroup/Q1">
+        <label>Q1</label>
+      </input>
+      <input ref="/data/showhidecontrols/showhidesubgroup/Q2">
+        <label>Q2</label>
+      </input>
+    </group>
+
+    <group ref="/data/validationcontrols">
+      <label>Validation</label>
+      <input ref="/data/validationcontrols/E">
+        <label>E (not equal)</label>
+      </input>
+      <input ref="/data/validationcontrols/F">
+        <label>F (range)</label>
+      </input>
+      <input ref="/data/validationcontrols/Text_Email">
+        <label>Text (Email)</label>
+        <hint>email check requires regex(), which is XPath2.0 only</hint>
+      </input>
+      <input ref="/data/validationcontrols/Text_max_length">
+        <label>Text (max length)</label>
+      </input>
+      <input ref="/data/validationcontrols/Decimal_currency">
+        <label>Decimal (currency)</label>
+        <hint>restrict decimal to 2 decimal places</hint>
+      </input>
+    </group>
+    <group ref="/data/PAGE_001" appearance="field-list">
+      <label>Page 1</label>
+      <input ref="/data/PAGE_001/Control_1a">
+        <label>Control 1a</label>
+      </input>
+      <group ref="/data/PAGE_001/page1section1group">
+        <label>Section 1.1</label>
+        <input ref="/data/PAGE_001/page1section1group/Control_1_1a">
+          <label>Control 1.1a</label>
+        </input>
+        <input ref="/data/PAGE_001/page1section1group/Control_1_1b">
+          <label>Control 1.1b</label>
+        </input>
+      </group>
+      <input ref="/data/PAGE_001/Control_1b">
+        <label>Control 1b</label>
+      </input>
+      <group ref="/data/PAGE_001/page1section2group">
+        <label>Section 1.2</label>
+        <input ref="/data/PAGE_001/page1section2group/Control_1_2a">
+          <label>Control 1.2a</label>
+        </input>
+        <input ref="/data/PAGE_001/page1section2group/Control_1_2b">
+          <label>Control 1.2b</label>
+        </input>
+      </group>
+    </group>
+    <group appearance="field-list" ref="/data/page2group">
+      <label>Page 2</label>
+      <input ref="/data/page2group/Control_2a">
+        <label>Control 2a</label>
+      </input>
+      <input ref="/data/page2group/Control_2b">
+        <label>Control 2b</label>
+      </input>
+    </group>
+    <group ref="/data/missingcontrols">
+      <label>Needed but missing data types</label>
+      <select1 ref="/data/missingcontrols/Boolean">
+        <label>Boolean</label>
+        <hint>boolean type unsupported by KoboToolbox and XLSForm; must use Select1 instead</hint>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+    </group>
+  </h:body>
+</h:html>

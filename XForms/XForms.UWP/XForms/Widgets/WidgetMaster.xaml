@@ -1,0 +1,53 @@
+﻿<UserControl
+    x:Class="XForms.UWP.XForms.Widgets.WidgetMaster"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XForms.UWP.XForms.Widgets"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    x:Name="_WidgetMaster"
+    mc:Ignorable="d"
+    Padding="0,10,0,10"
+    Margin="8">
+    
+
+    <UserControl.Resources>
+        <Storyboard x:Name="Show">
+            <DoubleAnimation Duration="0:0:0.6" To="1" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="_WidgetMaster" d:IsOptimized="True"/>
+        </Storyboard>
+        <Storyboard x:Name="Hide">
+            <DoubleAnimation Duration="0" To="0" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="_WidgetMaster" d:IsOptimized="True"/>
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Grid x:Name="grdInput" ScrollViewer.BringIntoViewOnFocusChange="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+
+        <Grid Grid.Column="0" Grid.Row="0" ScrollViewer.BringIntoViewOnFocusChange="False">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="lblLabel" Text="Label" Grid.Column="0" VerticalAlignment="Center" Margin="3,6,5,5" TextWrapping="Wrap" />
+
+            <!-- HINT -->
+            <Ellipse x:Name="ellHint" Height="25" Width="25" Grid.Column="1" StrokeThickness="2" Stroke="LightBlue" Margin="5,0,5,0" Tapped="Hint_Tapped"  VerticalAlignment="Center">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="ms-appx:///XForms/Assets/information.png" />
+                </Ellipse.Fill>
+            </Ellipse>
+        </Grid>
+        <Frame x:Name="control" Grid.Column="1" Grid.Row="0" />
+        <TextBlock x:Name="lblConstraintMessage" Grid.Row="2" Grid.ColumnSpan="99" FontSize="10" VerticalAlignment="Center" 
+                   HorizontalAlignment="Right" Margin="0,0,5,0" Visibility="Collapsed" />
+    </Grid>
+</UserControl>

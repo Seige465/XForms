@@ -1,0 +1,60 @@
+﻿<UserControl
+    x:Class="XForms.UWP.XForms.Widgets.Select1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XForms.UWP.XForms.Widgets"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"    
+    mc:Ignorable="d">
+
+
+    <UserControl.Resources>
+        <Storyboard x:Name="Show">
+            <DoubleAnimation Duration="0:0:0.4" To="1" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="lbxInline" d:IsOptimized="True"/>
+        </Storyboard>
+        <Storyboard x:Name="Hide">
+            <DoubleAnimation Duration="0:0:0.4" To="0" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="lbxInline" d:IsOptimized="True" Completed="DoubleAnimation_Completed"/>
+        </Storyboard>
+    </UserControl.Resources>
+
+
+    <Grid x:Name="grdSelect1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />            
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        
+
+        <Border x:Name="brdrValuePlaceholder" Background="Transparent" BorderThickness="0,0,0,1" 
+                BorderBrush="{ThemeResource TextControlBorderBrush}" HorizontalAlignment="Stretch" Grid.Column="1" 
+                Visibility="Collapsed" Height="{ThemeResource TextControlThemeMinHeight}">
+            <TextBlock x:Name="lblValuePlaceholder" Tapped="lblValuePlaceholder_Tapped" VerticalAlignment="Center"
+                    Text="Tap to select item" HorizontalAlignment="Stretch" TextAlignment="Right" Margin="0,0,5,0" />
+        </Border>   
+        
+        <ListBox x:Name="lbxInline" Grid.Row="1" Grid.Column="1" 
+                 Visibility="Collapsed" MaxHeight="150" Margin="10,0,20,0" Opacity="0" Background="Transparent" 
+                 Tapped="lbxInline_Tapped" LostFocus="lbxInline_LostFocus">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel HorizontalAlignment="Stretch" Background="White">
+                        <StackPanel.Resources>
+                            <Style TargetType="ListBoxItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>                                
+                            </Style>
+                        </StackPanel.Resources>
+                    </StackPanel>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding label}" Tag="{Binding value}" HorizontalAlignment="Stretch" TextAlignment="Center" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>

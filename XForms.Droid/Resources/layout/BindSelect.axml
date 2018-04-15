@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/mainLayout"
+    android:elevation="3dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/orderLayout"
+        android:animateLayoutChanges="true">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/labelHintLayout"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true">
+            <TextView
+                android:text="Medium Text"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/selectTitle"
+                android:tag="title"
+                android:gravity="center_vertical"
+                android:drawablePadding="5dp"
+                android:padding="5dp"
+                android:layout_margin="5dp"
+                android:layout_gravity="center" />
+            <ImageButton
+                android:src="@drawable/ic_help_outline_black_18dp"
+                android:layout_width="30sp"
+                android:layout_height="30sp"
+                android:id="@+id/hintButton"
+                android:scaleType="fitXY"
+                android:background="@drawable/circle"
+                android:layout_gravity="center"
+                android:layout_margin="5dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/multiSelectSegmentedControl"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5dp"
+            android:minHeight="20dp"
+            android:minWidth="20dp"
+            android:padding="10dp" />
+    </RelativeLayout>
+    <TextView
+        android:text="constraint"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/constraintLabel"
+        android:padding="10dp"
+        android:visibility="gone" />
+</LinearLayout>

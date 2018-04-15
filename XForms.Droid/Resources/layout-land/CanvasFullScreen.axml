@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainLayout">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mainToolLayout"
+        android:elevation="5dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_height="25dip"
+            android:id="@+id/switchLayout"
+            android:weightSum="12"
+            android:elevation="3dp"
+            android:layout_gravity="left"
+            android:layout_width="250dip"
+            android:layout_margin="5dp">
+            <Switch
+                android:layout_weight="5"
+                android:layout_height="match_parent"
+                android:id="@+id/switchHighlight"
+                android:text="Highlight:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textSize="14sp"
+                android:layout_marginRight="15dp"
+                android:layout_width="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="250dip"
+            android:layout_height="35dip"
+            android:id="@+id/colourLayout"
+            android:layout_margin="5dp">
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/red"
+                android:layout_weight="1"
+                android:background="#ff0000"
+                android:backgroundTintMode="src_atop"
+                android:backgroundTint="#00ffffff"
+                android:elevation="3dp" />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/green"
+                android:layout_weight="1"
+                android:background="#ff00ff00"
+                android:backgroundTintMode="src_atop"
+                android:backgroundTint="#00ffffff"
+                android:elevation="3dp" />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/blue"
+                android:layout_weight="1"
+                android:background="#ff0000ff"
+                android:backgroundTintMode="src_atop"
+                android:backgroundTint="#00ffffff"
+                android:elevation="3dp" />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/yellow"
+                android:layout_weight="1"
+                android:background="#ffffff00"
+                android:backgroundTintMode="src_atop"
+                android:backgroundTint="#00ffffff"
+                android:elevation="3dp" />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/orange"
+                android:layout_weight="1"
+                android:background="#ffffa500"
+                android:backgroundTintMode="src_atop"
+                android:backgroundTint="#00ffffff"
+                android:elevation="3dp" />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/white"
+                android:layout_weight="1"
+                android:background="#ffffffff"
+                android:backgroundTintMode="src_atop"
+                android:backgroundTint="#00ffffff"
+                android:elevation="3dp" />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/black"
+                android:layout_weight="1"
+                android:background="#000000"
+                android:backgroundTintMode="src_atop"
+                android:backgroundTint="#00ffffff"
+                android:elevation="3dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="250dip"
+            android:id="@+id/widthLayout"
+            android:layout_height="wrap_content"
+            android:weightSum="7"
+            android:layout_margin="5dp">
+            <TextView
+                android:text="Width: "
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/widthText"
+                android:layout_weight="2"
+                android:gravity="center_vertical"
+                android:textColor="@android:color/black" />
+            <SeekBar
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:id="@+id/widthSeek"
+                android:layout_weight="5"
+                android:progress="10"
+                android:max="80" />
+        </LinearLayout>
+        <EditText
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/editExifText"
+            android:gravity="center_vertical"
+            android:hint="Enter note here:"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="test" />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:id="@+id/mainCanvas"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/backgroundImage"
+            android:layout_centerInParent="true"
+            android:scaleType="fitCenter"
+            android:tag="image" />
+    </RelativeLayout>
+</LinearLayout>

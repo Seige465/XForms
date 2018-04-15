@@ -1,0 +1,30 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="XForms.UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XForms.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"    
+    mc:Ignorable="d"
+                        >
+
+    <Grid x:ConnectionId='2' Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" x:Name="grdMain">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Button x:ConnectionId='4' x:Name="btnLoadForms" Content="Load Form List" Margin="10"                              />
+            <Button x:ConnectionId='5' x:Name="btnLoadForm" Content="Load Selected Form" Margin="10"                             />
+        </StackPanel>
+        <ListBox x:ConnectionId='3' x:Name="lbxForms" Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Style="{StaticResource SubtitleTextBlockStyle}" Text="{Binding}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>        
+    </Grid>
+</Page>
+

@@ -1,0 +1,66 @@
+﻿<UserControl
+    x:Class="XForms.UWP.XForms.PopupControls.Select"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XForms.UWP.XForms.PopupControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    
+    
+    <Grid Background="{ThemeResource SystemControlBackgroundChromeWhiteBrush}" BorderBrush="Gray" BorderThickness="2"> 
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" /> <!-- Header -->
+            <RowDefinition Height="*" /> <!-- Main -->
+            <RowDefinition Height="auto" /> <!-- Footer -->
+        </Grid.RowDefinitions>
+        <Border Background="LightGray" />
+        <TextBlock x:ConnectionId='1' 
+            x:Name="lblHeader" 
+            Style="{StaticResource SubtitleTextBlockStyle}" 
+            HorizontalAlignment="Center"
+            TextWrapping="Wrap"
+            Margin="5"
+            VerticalAlignment="Center"
+            />
+        <ListBox x:ConnectionId='2' Grid.Row="1" x:Name="lbxSelect1"                                                Visibility="Collapsed">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel HorizontalAlignment="Stretch" Background="White">
+                        <StackPanel.Resources>
+                            <Style TargetType="ListBoxItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                            </Style>
+                        </StackPanel.Resources>
+                    </StackPanel>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding label}" HorizontalAlignment="Center" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>            
+        </ListBox>
+
+        <ScrollViewer x:ConnectionId='3' x:Name="svwSelect" Grid.Row="1" Visibility="Collapsed">
+            <StackPanel x:ConnectionId='6' x:Name="stkSelect">
+            </StackPanel>
+        </ScrollViewer>       
+
+        <Button x:ConnectionId='4' x:Name="btnCancel" 
+                HorizontalAlignment="Left"
+                Grid.Row="2"
+                Content="Cancel" 
+                                         
+                MinWidth="80"
+                Margin="6"/>
+        <Button x:ConnectionId='5' x:Name="btnSave" 
+                HorizontalAlignment="Right"
+                Grid.Row="2"
+                Content="Save" 
+                                       
+                MinWidth="80"
+                Margin="6"/>
+    </Grid>
+</UserControl>
+

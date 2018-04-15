@@ -1,0 +1,15 @@
+App.xbf
+MainPage.xbf
+XForms\PopupControls\Canvas.xbf
+XForms\PopupControls\DraggablePin.xbf
+XForms\PopupControls\Map.xbf
+XForms\PopupControls\Select.xbf
+XForms\Widgets\GeoPoint.xbf
+XForms\Widgets\Group.xbf
+XForms\Widgets\Input.xbf
+XForms\Widgets\Page.xbf
+XForms\Widgets\Select.xbf
+XForms\Widgets\Select1.xbf
+XForms\Widgets\Upload_Draw.xbf
+XForms\Widgets\Upload_Image.xbf
+XForms\XFormMaster.xbf

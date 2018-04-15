@@ -1,0 +1,1 @@
+<menu xmlns:xforms="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/menu_refresh" android:orderInCategory="10" android:showAsAction="always" android:icon="@drawable/ic_refresh_white_48dp" android:title="Refresh" /></menu>

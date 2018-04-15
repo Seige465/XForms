@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="SharedProjectFile_SccProperties">
+    <SharedProjectFile_ProjectGuid>{e350681e-93f1-486e-8244-844731961cc4}</SharedProjectFile_ProjectGuid>
+    <SharedProjectFile_SccProjectName>SAK</SharedProjectFile_SccProjectName>
+    <SharedProjectFile_SccAuxPath>SAK</SharedProjectFile_SccAuxPath>
+    <SharedProjectFile_SccLocalPath>SAK</SharedProjectFile_SccLocalPath>
+    <SharedProjectFile_SccProvider>SAK</SharedProjectFile_SccProvider>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>88b87395-7ab1-4bdd-a7f3-230bc60b2d40</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>XForms</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)XForms\Class.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)XForms\DLL.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)XForms\Extensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)XForms\IMethods.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)XForms\Parser.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)XForms\WebServerHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)XForms\XForm.cs" />
+  </ItemGroup>
+</Project>

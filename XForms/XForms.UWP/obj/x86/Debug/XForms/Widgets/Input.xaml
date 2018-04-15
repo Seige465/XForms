@@ -1,0 +1,33 @@
+﻿<UserControl x:ConnectionId='1'
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"    
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Interactivity="using:Microsoft.Xaml.Interactivity" xmlns:Core="using:Microsoft.Xaml.Interactions.Core" 
+    x:Name="userControl"
+    x:Class="XForms.UWP.XForms.Widgets.Input"
+    mc:Ignorable="d"       
+    Padding="0,10,0,10"
+    Margin="8">
+
+    <UserControl.Resources>
+        <Storyboard x:ConnectionId='2' x:Name="Show">
+            <DoubleAnimation Duration="0:0:0.6" To="1" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="userControl" d:IsOptimized="True"/>
+        </Storyboard>
+        <Storyboard x:ConnectionId='3' x:Name="Hide">
+            <DoubleAnimation Duration="0" To="0" Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="userControl" d:IsOptimized="True"/>
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Grid x:ConnectionId='4' x:Name="grdInput">        
+        <TextBox x:ConnectionId='5' x:Name="txtInput" Text="" Grid.Row="0" Grid.Column="1" Margin="15,0,0,0"                                                           TextAlignment="Right" />
+
+        <Border x:ConnectionId='6' x:Name="brdrValuePlaceholder" Background="Transparent" BorderThickness="0,0,0,1" BorderBrush="{ThemeResource TextControlBorderBrush}" HorizontalAlignment="Stretch" 
+                Height="{ThemeResource TextControlThemeMinHeight}" Visibility="Collapsed">
+            <TextBlock x:ConnectionId='7' x:Name="lblInput" Text="" Grid.Row="0" Grid.Column="1" Margin="0,0,5,0"                          TextAlignment="Right" HorizontalAlignment="Stretch"/>
+            <!--TextChanged="txtInput_TextChanged"-->
+        </Border>
+        
+    </Grid>
+</UserControl>
+
